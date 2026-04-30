@@ -8,7 +8,9 @@ const Certification = () => {
     "Data Visualization with Python - Coursera",
     "Business Analytics Specialization - Coursera",
     "Data Analytics Foundations - LinkedIn",
-    "Power BI Essential Training - LinkedIn"
+    "Power BI Essential Training - LinkedIn",
+    "Data Analytics Job Simulation - Forage",
+    "Quantitative Research Job Simulation - Forage"
   ];
 
   return (
