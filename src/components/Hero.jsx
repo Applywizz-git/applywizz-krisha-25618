@@ -30,7 +30,7 @@ const Hero = () => {
               <div className="flex flex-wrap gap-5 justify-center lg:justify-start">
                 <Magnetic>
                   <a 
-                    href="/AWL-19560-11032026-0407-resume_keshav-kumar-sai-kusumadari_aml.pdf" 
+                    href="/resume.pdf" 
                     download 
                     className="px-8 py-4 bg-primary text-white font-black text-[11px] tracking-widest rounded-full shadow-2xl transition-all flex items-center gap-3"
                   >
